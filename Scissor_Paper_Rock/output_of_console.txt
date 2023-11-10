@@ -1,0 +1,54 @@
+Round 1
+Guess the choice (0: Rock, 1: Paper, 2: Scissors): 0
+Your choice: Rock
+Computer's choice:
+Rock
+Computer's choice: Rock
+It's a tie!
+
+Current Score:
+User: 0 | Computer: 0
+Round 2
+Guess the choice (0: Rock, 1: Paper, 2: Scissors): 0
+Your choice: Rock
+Computer's choice:
+Paper
+Computer's choice: Paper
+Computer wins this round!
+
+Current Score:
+User: 0 | Computer: 1
+Round 3
+Guess the choice (0: Rock, 1: Paper, 2: Scissors): 0
+Your choice: Rock
+Computer's choice:
+Rock
+Computer's choice: Scissors
+You win this round!
+
+Current Score:
+User: 1 | Computer: 1
+Round 4
+Guess the choice (0: Rock, 1: Paper, 2: Scissors): 0
+Your choice: Rock
+Computer's choice:
+Rock
+Computer's choice: Scissors
+You win this round!
+
+Current Score:
+User: 2 | Computer: 1
+Round 5
+Guess the choice (0: Rock, 1: Paper, 2: Scissors): 0
+Your choice: Rock
+Computer's choice:
+Scissors
+Computer's choice: Paper
+Computer wins this round!
+
+Current Score:
+User: 2 | Computer: 2
+Game Over!
+It's a tie! Well played.
+Final Score:
+User: 2 | Computer: 2
